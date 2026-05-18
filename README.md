@@ -4,9 +4,9 @@ This Tableau dashboard project analyzes e-commerce sales performance using inter
 
 
 --- Tools Used
-Tableau
-SQL
-Excel
+Tableau,
+SQL,
+Excel,
 
 --- Dashboard Features
 KPI Metrics
@@ -14,30 +14,30 @@ KPI Metrics
   -Total Orders
   -Total Returns
   -Average Order Value
-Monthly Revenue Trend
-Sales by State Map
-Revenue by Category
-Return Rate Analysis
-Customer Lifetime Value
-Sales Channel Performance
+Monthly Revenue Trend,
+Sales by State Map,
+Revenue by Category,
+Return Rate Analysis,
+Customer Lifetime Value,
+Sales Channel Performance,
 Interactive Filters
 
 --- Key Insights
-Home Office generated the highest revenue
-Website sales outperformed other channels
-Revenue showed monthly fluctuations and trends
-Return rates varied across product categories
+Home Office generated the highest revenue,
+Website sales outperformed other channels,
+Revenue showed monthly fluctuations and trends,
+Return rates varied across product categories,
 
 --- Dashboard Preview
 ![Dashboard Preview](Sales-Dashboard.png)
 
 --- Skills Demonstrated
-Data Visualization
-Dashboard Design
-KPI Reporting
-Trend Analysis
-Business Intelligence
-Interactive Dashboard Development
+Data Visualization,
+Dashboard Design,
+KPI Reporting,
+Trend Analysis,
+Business Intelligence,
+Interactive Dashboard Development,
 
 
 Arif Bhuiyan
