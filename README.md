@@ -29,7 +29,7 @@ Revenue showed monthly fluctuations and trends
 Return rates varied across product categories
 
 --- Dashboard Preview
-![Dashboard Preview](Cafe Dashboard.png)
+![Dashboard Preview](Sales-Dashboard.png)
 
 --- Skills Demonstrated
 Data Visualization
