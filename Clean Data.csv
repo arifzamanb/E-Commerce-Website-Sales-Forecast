@@ -1,0 +1,181 @@
+order_id,order_date,order_timestamp,customer_id,customer_name,city,state,country,signup_date,product_id,product_name,category,quantity,unit_price,discount_rate,shipping_fee,order_status,payment_method,sales_channel,is_returned,customer_rating,order_total
+10001,2025-01-14,2025-01-14 12:15:00,4,Olivia Nguyen,Perth,WA,Australia,2023-03-18,101,Wireless Mouse,Electronics,1,29.99,0.10,12.99,Completed,Credit Card,Website,No,5,39.98
+10002,2024-04-29,2024-04-29 16:00:00,3,Noah Wilson,Brisbane,QLD,Australia,2023-03-05,203,Running Bottle,Fitness,2,19.99,0.10,12.99,Completed,Apple Pay,Website,No,3,48.97
+10003,2024-06-23,2024-06-23 12:15:00,6,Isla Taylor,Hobart,TAS,Australia,2023-05-01,402,Green Tea Box,Grocery,1,9.99,0.10,0.00,Completed,Apple Pay,Marketplace,No,4,8.99
+10004,2025-02-17,2025-02-17 08:45:00,20,Chloe Lewis,Brisbane,QLD,Australia,2024-01-22,301,Desk Lamp,Home Office,1,34.99,0.20,9.99,Completed,Apple Pay,Mobile App,No,4,37.98
+10005,2024-12-04,2024-12-04 11:30:00,3,Noah Wilson,Brisbane,QLD,Australia,2023-03-05,102,Bluetooth Headphones,Electronics,4,89.99,0.15,0.00,Completed,Apple Pay,Mobile App,No,4,305.97
+10006,2024-04-17,2024-04-17 18:30:00,12,Sofia Lee,Perth,WA,Australia,2023-08-28,304,Standing Desk Pad,Home Office,2,59.99,0.05,0.00,Returned,PayPal,Mobile App,Yes,5,113.98
+10007,2024-05-18,2024-05-18 18:15:00,15,William Moore,Melbourne,VIC,Australia,2023-10-15,401,Coffee Beans 1kg,Grocery,2,27.99,0.10,0.00,Completed,Apple Pay,Email Campaign,No,5,50.38
+10008,2024-04-18,2024-04-18 17:30:00,9,Henry Kim,Sydney,NSW,Australia,2023-06-15,103,USB-C Cable,Electronics,1,14.99,0.00,9.99,Completed,PayPal,Marketplace,No,4,24.98
+10009,2024-10-25,2024-10-25 14:30:00,19,Benjamin Clark,Melbourne,VIC,Australia,2024-01-06,402,Green Tea Box,Grocery,1,9.99,0.20,12.99,Completed,Credit Card,Website,No,3,20.98
+10010,2025-02-09,2025-02-09 18:45:00,5,Ethan Brown,Adelaide,SA,Australia,2023-04-10,202,Dumbbell Set,Fitness,2,79.99,0.00,12.99,Completed,Credit Card,Website,No,4,172.97
+10011,2025-01-28,2025-01-28 18:30:00,18,Ruby Harris,Sydney,NSW,Australia,2023-12-01,301,Desk Lamp,Home Office,1,34.99,0.00,9.99,Completed,Apple Pay,Mobile App,No,5,44.98
+10012,2025-03-21,2025-03-21 18:30:00,17,James White,Perth,WA,Australia,2023-11-18,104,Laptop Stand,Electronics,3,49.99,0.00,4.99,Completed,PayPal,Website,No,4,154.96
+10013,2024-09-07,2024-09-07 08:00:00,20,Chloe Lewis,Brisbane,QLD,Australia,2024-01-22,303,Ergonomic Chair,Home Office,3,199.99,0.15,7.99,Completed,Credit Card,Website,No,2,517.96
+10014,2025-01-24,2025-01-24 16:15:00,16,Ava Jackson,Brisbane,QLD,Australia,2023-11-04,103,USB-C Cable,Electronics,1,14.99,0.00,12.99,Completed,Afterpay,Mobile App,No,4,27.98
+10015,2024-12-31,2024-12-31 12:45:00,18,Ruby Harris,Sydney,NSW,Australia,2023-12-01,203,Running Bottle,Fitness,4,19.99,0.05,9.99,Returned,PayPal,Mobile App,Yes,4,85.95
+10016,2024-01-11,2024-01-11 17:15:00,3,Noah Wilson,Brisbane,QLD,Australia,2023-03-05,303,Ergonomic Chair,Home Office,2,199.99,0.00,0.00,Completed,Credit Card,Marketplace,No,2,399.98
+10017,2024-05-22,2024-05-22 18:45:00,3,Noah Wilson,Brisbane,QLD,Australia,2023-03-05,204,Resistance Bands,Fitness,1,24.99,0.00,12.99,Returned,Afterpay,Email Campaign,Yes,4,37.98
+10018,2024-02-19,2024-02-19 18:45:00,7,Lucas Singh,Canberra,ACT,Australia,2023-05-21,104,Laptop Stand,Electronics,1,49.99,0.00,0.00,Cancelled,Credit Card,Website,No,,0.00
+10019,2025-02-13,2025-02-13 21:00:00,13,Jack Anderson,Adelaide,SA,Australia,2023-09-09,303,Ergonomic Chair,Home Office,1,199.99,0.00,9.99,Completed,Apple Pay,Email Campaign,No,4,209.98
+10020,2024-08-14,2024-08-14 20:00:00,8,Amelia Martin,Darwin,NT,Australia,2023-06-03,103,USB-C Cable,Electronics,1,14.99,0.20,0.00,Completed,PayPal,Mobile App,No,5,11.99
+10021,2024-09-03,2024-09-03 11:45:00,14,Grace Thomas,Sydney,NSW,Australia,2023-09-29,404,Olive Oil 750ml,Grocery,3,16.99,0.00,0.00,Completed,Afterpay,Marketplace,No,4,50.97
+10022,2024-03-20,2024-03-20 11:30:00,14,Grace Thomas,Sydney,NSW,Australia,2023-09-29,404,Olive Oil 750ml,Grocery,1,16.99,0.00,12.99,Completed,Credit Card,Website,No,5,29.98
+10023,2024-09-14,2024-09-14 21:15:00,19,Benjamin Clark,Melbourne,VIC,Australia,2024-01-06,404,Olive Oil 750ml,Grocery,1,16.99,0.00,4.99,Completed,PayPal,Email Campaign,No,5,21.98
+10024,2024-10-23,2024-10-23 17:00:00,4,Olivia Nguyen,Perth,WA,Australia,2023-03-18,204,Resistance Bands,Fitness,2,24.99,0.00,12.99,Returned,Apple Pay,Mobile App,Yes,4,62.97
+10025,2024-05-15,2024-05-15 14:15:00,11,Leo Garcia,Brisbane,QLD,Australia,2023-08-02,204,Resistance Bands,Fitness,2,24.99,0.00,7.99,Completed,Credit Card,Website,No,1,57.97
+10026,2024-09-16,2024-09-16 12:15:00,18,Ruby Harris,Sydney,NSW,Australia,2023-12-01,203,Running Bottle,Fitness,3,19.99,0.15,4.99,Completed,Afterpay,Marketplace,No,4,55.96
+10027,2024-12-07,2024-12-07 21:30:00,20,Chloe Lewis,Brisbane,QLD,Australia,2024-01-22,101,Wireless Mouse,Electronics,3,29.99,0.00,4.99,Completed,Credit Card,Mobile App,No,3,94.96
+10028,2024-11-05,2024-11-05 11:30:00,9,Henry Kim,Sydney,NSW,Australia,2023-06-15,302,Notebook Pack,Home Office,1,12.99,0.05,7.99,Returned,Credit Card,Website,Yes,4,20.33
+10029,2024-01-23,2024-01-23 08:30:00,14,Grace Thomas,Sydney,NSW,Australia,2023-09-29,301,Desk Lamp,Home Office,2,34.99,0.05,7.99,Completed,Afterpay,Website,No,5,74.47
+10030,2025-03-28,2025-03-28 19:15:00,4,Olivia Nguyen,Perth,WA,Australia,2023-03-18,103,USB-C Cable,Electronics,1,14.99,0.10,12.99,Returned,PayPal,Website,Yes,3,26.48
+10031,2025-02-11,2025-02-11 21:00:00,10,Charlotte Davis,Melbourne,VIC,Australia,2023-07-07,304,Standing Desk Pad,Home Office,3,59.99,0.00,0.00,Cancelled,Credit Card,Marketplace,No,,0.00
+10032,2024-11-13,2024-11-13 19:15:00,18,Ruby Harris,Sydney,NSW,Australia,2023-12-01,402,Green Tea Box,Grocery,3,9.99,0.00,4.99,Completed,Credit Card,Mobile App,No,5,34.96
+10033,2025-02-14,2025-02-14 18:15:00,11,Leo Garcia,Brisbane,QLD,Australia,2023-08-02,402,Green Tea Box,Grocery,1,9.99,0.10,0.00,Completed,Afterpay,Mobile App,No,5,8.99
+10034,2024-06-28,2024-06-28 12:15:00,7,Lucas Singh,Canberra,ACT,Australia,2023-05-21,403,Protein Bars 12pk,Grocery,1,22.99,0.05,9.99,Completed,Credit Card,Marketplace,No,4,31.83
+10035,2024-12-13,2024-12-13 21:30:00,12,Sofia Lee,Perth,WA,Australia,2023-08-28,401,Coffee Beans 1kg,Grocery,3,27.99,0.00,7.99,Completed,Apple Pay,Website,No,5,91.96
+10036,2024-06-25,2024-06-25 19:30:00,4,Olivia Nguyen,Perth,WA,Australia,2023-03-18,402,Green Tea Box,Grocery,1,9.99,0.20,0.00,Completed,PayPal,Marketplace,No,5,7.99
+10037,2024-01-01,2024-01-01 16:15:00,2,Mia Chen,Melbourne,VIC,Australia,2023-02-20,402,Green Tea Box,Grocery,1,9.99,0.00,7.99,Returned,Credit Card,Marketplace,Yes,4,17.98
+10038,2024-12-07,2024-12-07 14:30:00,17,James White,Perth,WA,Australia,2023-11-18,302,Notebook Pack,Home Office,1,12.99,0.00,4.99,Completed,Afterpay,Mobile App,No,4,17.98
+10039,2024-07-26,2024-07-26 16:00:00,20,Chloe Lewis,Brisbane,QLD,Australia,2024-01-22,302,Notebook Pack,Home Office,1,12.99,0.00,12.99,Returned,Afterpay,Email Campaign,Yes,5,25.98
+10040,2024-09-18,2024-09-18 15:15:00,15,William Moore,Melbourne,VIC,Australia,2023-10-15,203,Running Bottle,Fitness,2,19.99,0.00,12.99,Completed,PayPal,Marketplace,No,3,52.97
+10041,2024-03-16,2024-03-16 08:00:00,8,Amelia Martin,Darwin,NT,Australia,2023-06-03,203,Running Bottle,Fitness,1,19.99,0.00,0.00,Completed,PayPal,Email Campaign,No,4,19.99
+10042,2024-05-04,2024-05-04 10:00:00,16,Ava Jackson,Brisbane,QLD,Australia,2023-11-04,401,Coffee Beans 1kg,Grocery,3,27.99,0.15,0.00,Completed,Afterpay,Website,No,3,71.37
+10043,2025-03-10,2025-03-10 09:45:00,18,Ruby Harris,Sydney,NSW,Australia,2023-12-01,204,Resistance Bands,Fitness,1,24.99,0.00,12.99,Returned,Afterpay,Email Campaign,Yes,5,37.98
+10044,2024-03-22,2024-03-22 19:45:00,18,Ruby Harris,Sydney,NSW,Australia,2023-12-01,403,Protein Bars 12pk,Grocery,1,22.99,0.10,7.99,Returned,PayPal,Marketplace,Yes,4,28.68
+10045,2024-12-31,2024-12-31 12:15:00,15,William Moore,Melbourne,VIC,Australia,2023-10-15,103,USB-C Cable,Electronics,1,14.99,0.00,12.99,Completed,PayPal,Email Campaign,No,3,27.98
+10046,2024-02-02,2024-02-02 14:45:00,5,Ethan Brown,Adelaide,SA,Australia,2023-04-10,203,Running Bottle,Fitness,1,19.99,0.00,0.00,Completed,Afterpay,Website,No,5,19.99
+10047,2024-09-01,2024-09-01 08:30:00,19,Benjamin Clark,Melbourne,VIC,Australia,2024-01-06,401,Coffee Beans 1kg,Grocery,1,27.99,0.00,9.99,Returned,PayPal,Email Campaign,Yes,5,37.98
+10048,2024-08-11,2024-08-11 15:00:00,8,Amelia Martin,Darwin,NT,Australia,2023-06-03,301,Desk Lamp,Home Office,1,34.99,0.05,0.00,Cancelled,PayPal,Email Campaign,No,,0.00
+10049,2024-07-20,2024-07-20 17:00:00,5,Ethan Brown,Adelaide,SA,Australia,2023-04-10,101,Wireless Mouse,Electronics,1,29.99,0.00,9.99,Completed,Afterpay,Marketplace,No,2,39.98
+10050,2024-06-16,2024-06-16 13:45:00,7,Lucas Singh,Canberra,ACT,Australia,2023-05-21,403,Protein Bars 12pk,Grocery,1,22.99,0.20,9.99,Completed,Afterpay,Website,No,5,28.38
+10051,2024-06-28,2024-06-28 11:00:00,18,Ruby Harris,Sydney,NSW,Australia,2023-12-01,102,Bluetooth Headphones,Electronics,2,89.99,0.05,0.00,Completed,Credit Card,Mobile App,No,3,170.98
+10052,2024-08-30,2024-08-30 18:00:00,8,Amelia Martin,Darwin,NT,Australia,2023-06-03,201,Yoga Mat,Fitness,2,39.99,0.00,7.99,Completed,Credit Card,Mobile App,No,3,87.97
+10053,2024-10-23,2024-10-23 08:30:00,10,Charlotte Davis,Melbourne,VIC,Australia,2023-07-07,104,Laptop Stand,Electronics,2,49.99,0.15,9.99,Completed,PayPal,Website,No,5,94.97
+10054,2024-02-22,2024-02-22 19:30:00,19,Benjamin Clark,Melbourne,VIC,Australia,2024-01-06,204,Resistance Bands,Fitness,3,24.99,0.05,0.00,Returned,Apple Pay,Email Campaign,Yes,5,71.22
+10055,2024-09-16,2024-09-16 18:30:00,12,Sofia Lee,Perth,WA,Australia,2023-08-28,103,USB-C Cable,Electronics,1,14.99,0.00,9.99,Completed,Apple Pay,Email Campaign,No,4,24.98
+10056,2024-03-31,2024-03-31 19:30:00,5,Ethan Brown,Adelaide,SA,Australia,2023-04-10,402,Green Tea Box,Grocery,2,9.99,0.15,9.99,Completed,Apple Pay,Marketplace,No,4,26.97
+10057,2024-05-22,2024-05-22 15:15:00,8,Amelia Martin,Darwin,NT,Australia,2023-06-03,103,USB-C Cable,Electronics,2,14.99,0.05,9.99,Completed,Apple Pay,Mobile App,No,1,38.47
+10058,2024-06-30,2024-06-30 20:30:00,16,Ava Jackson,Brisbane,QLD,Australia,2023-11-04,203,Running Bottle,Fitness,1,19.99,0.15,7.99,Returned,PayPal,Website,Yes,1,24.98
+10059,2024-09-07,2024-09-07 16:15:00,8,Amelia Martin,Darwin,NT,Australia,2023-06-03,402,Green Tea Box,Grocery,2,9.99,0.05,9.99,Completed,Credit Card,Marketplace,No,5,28.97
+10060,2024-12-20,2024-12-20 11:30:00,8,Amelia Martin,Darwin,NT,Australia,2023-06-03,401,Coffee Beans 1kg,Grocery,2,27.99,0.00,12.99,Returned,Apple Pay,Marketplace,Yes,4,68.97
+10061,2024-06-05,2024-06-05 12:15:00,15,William Moore,Melbourne,VIC,Australia,2023-10-15,301,Desk Lamp,Home Office,1,34.99,0.00,0.00,Cancelled,PayPal,Mobile App,No,,0.00
+10062,2024-05-21,2024-05-21 19:30:00,7,Lucas Singh,Canberra,ACT,Australia,2023-05-21,404,Olive Oil 750ml,Grocery,4,16.99,0.10,7.99,Completed,Apple Pay,Website,No,4,69.15
+10063,2024-05-20,2024-05-20 08:00:00,18,Ruby Harris,Sydney,NSW,Australia,2023-12-01,201,Yoga Mat,Fitness,2,39.99,0.05,0.00,Cancelled,Afterpay,Website,No,,0.00
+10064,2024-08-28,2024-08-28 15:45:00,1,Aarav Patel,Sydney,NSW,Australia,2023-01-12,302,Notebook Pack,Home Office,1,12.99,0.20,7.99,Completed,Credit Card,Email Campaign,No,3,18.38
+10065,2024-10-22,2024-10-22 18:00:00,16,Ava Jackson,Brisbane,QLD,Australia,2023-11-04,103,USB-C Cable,Electronics,1,14.99,0.10,7.99,Completed,Credit Card,Email Campaign,No,5,21.48
+10066,2025-02-01,2025-02-01 16:45:00,20,Chloe Lewis,Brisbane,QLD,Australia,2024-01-22,204,Resistance Bands,Fitness,1,24.99,0.00,12.99,Completed,Credit Card,Website,No,4,37.98
+10067,2024-05-15,2024-05-15 18:00:00,7,Lucas Singh,Canberra,ACT,Australia,2023-05-21,203,Running Bottle,Fitness,1,19.99,0.00,0.00,Completed,Afterpay,Email Campaign,No,1,19.99
+10068,2024-04-28,2024-04-28 12:30:00,10,Charlotte Davis,Melbourne,VIC,Australia,2023-07-07,102,Bluetooth Headphones,Electronics,2,89.99,0.00,4.99,Completed,PayPal,Email Campaign,No,5,184.97
+10069,2024-11-27,2024-11-27 10:30:00,4,Olivia Nguyen,Perth,WA,Australia,2023-03-18,204,Resistance Bands,Fitness,2,24.99,0.00,4.99,Completed,Apple Pay,Email Campaign,No,5,54.97
+10070,2024-12-18,2024-12-18 12:45:00,4,Olivia Nguyen,Perth,WA,Australia,2023-03-18,403,Protein Bars 12pk,Grocery,3,22.99,0.00,9.99,Completed,Credit Card,Email Campaign,No,3,78.96
+10071,2024-01-14,2024-01-14 09:15:00,11,Leo Garcia,Brisbane,QLD,Australia,2023-08-02,301,Desk Lamp,Home Office,4,34.99,0.10,12.99,Returned,Apple Pay,Website,Yes,5,138.95
+10072,2024-09-22,2024-09-22 18:45:00,6,Isla Taylor,Hobart,TAS,Australia,2023-05-01,404,Olive Oil 750ml,Grocery,3,16.99,0.00,12.99,Completed,Afterpay,Website,No,5,63.96
+10073,2024-07-28,2024-07-28 13:30:00,16,Ava Jackson,Brisbane,QLD,Australia,2023-11-04,304,Standing Desk Pad,Home Office,2,59.99,0.15,7.99,Completed,Apple Pay,Email Campaign,No,5,109.97
+10074,2024-08-20,2024-08-20 09:30:00,18,Ruby Harris,Sydney,NSW,Australia,2023-12-01,102,Bluetooth Headphones,Electronics,1,89.99,0.00,9.99,Returned,Credit Card,Email Campaign,Yes,5,99.98
+10075,2024-04-06,2024-04-06 16:30:00,14,Grace Thomas,Sydney,NSW,Australia,2023-09-29,102,Bluetooth Headphones,Electronics,2,89.99,0.00,9.99,Completed,PayPal,Marketplace,No,3,189.97
+10076,2024-03-03,2024-03-03 08:15:00,15,William Moore,Melbourne,VIC,Australia,2023-10-15,404,Olive Oil 750ml,Grocery,2,16.99,0.00,0.00,Returned,PayPal,Website,Yes,4,33.98
+10077,2024-11-27,2024-11-27 21:15:00,15,William Moore,Melbourne,VIC,Australia,2023-10-15,104,Laptop Stand,Electronics,1,49.99,0.10,0.00,Cancelled,Apple Pay,Email Campaign,No,,0.00
+10078,2024-05-04,2024-05-04 15:15:00,16,Ava Jackson,Brisbane,QLD,Australia,2023-11-04,404,Olive Oil 750ml,Grocery,1,16.99,0.15,0.00,Cancelled,PayPal,Website,No,,0.00
+10079,2024-06-23,2024-06-23 20:30:00,9,Henry Kim,Sydney,NSW,Australia,2023-06-15,402,Green Tea Box,Grocery,2,9.99,0.00,7.99,Returned,Afterpay,Mobile App,Yes,4,27.97
+10080,2024-06-25,2024-06-25 13:45:00,15,William Moore,Melbourne,VIC,Australia,2023-10-15,404,Olive Oil 750ml,Grocery,1,16.99,0.00,0.00,Cancelled,PayPal,Email Campaign,No,,0.00
+10081,2024-01-23,2024-01-23 13:45:00,8,Amelia Martin,Darwin,NT,Australia,2023-06-03,402,Green Tea Box,Grocery,2,9.99,0.10,0.00,Cancelled,PayPal,Email Campaign,No,,0.00
+10082,2024-09-14,2024-09-14 17:30:00,2,Mia Chen,Melbourne,VIC,Australia,2023-02-20,201,Yoga Mat,Fitness,3,39.99,0.15,9.99,Completed,Afterpay,Website,No,4,111.96
+10083,2025-03-21,2025-03-21 18:15:00,5,Ethan Brown,Adelaide,SA,Australia,2023-04-10,402,Green Tea Box,Grocery,1,9.99,0.10,7.99,Completed,Afterpay,Website,No,5,16.98
+10084,2024-06-11,2024-06-11 18:45:00,11,Leo Garcia,Brisbane,QLD,Australia,2023-08-02,401,Coffee Beans 1kg,Grocery,3,27.99,0.00,0.00,Completed,Apple Pay,Mobile App,No,5,83.97
+10085,2024-02-20,2024-02-20 20:00:00,3,Noah Wilson,Brisbane,QLD,Australia,2023-03-05,402,Green Tea Box,Grocery,1,9.99,0.05,0.00,Completed,Credit Card,Marketplace,No,4,9.49
+10086,2024-08-08,2024-08-08 10:15:00,12,Sofia Lee,Perth,WA,Australia,2023-08-28,304,Standing Desk Pad,Home Office,1,59.99,0.05,4.99,Completed,Afterpay,Mobile App,No,3,61.98
+10087,2024-04-28,2024-04-28 15:30:00,16,Ava Jackson,Brisbane,QLD,Australia,2023-11-04,201,Yoga Mat,Fitness,1,39.99,0.05,9.99,Completed,PayPal,Website,No,5,47.98
+10088,2024-10-27,2024-10-27 12:45:00,15,William Moore,Melbourne,VIC,Australia,2023-10-15,304,Standing Desk Pad,Home Office,2,59.99,0.00,7.99,Completed,Afterpay,Website,No,5,127.97
+10089,2024-10-19,2024-10-19 13:30:00,8,Amelia Martin,Darwin,NT,Australia,2023-06-03,401,Coffee Beans 1kg,Grocery,4,27.99,0.00,9.99,Completed,Credit Card,Email Campaign,No,1,121.95
+10090,2024-11-06,2024-11-06 20:30:00,10,Charlotte Davis,Melbourne,VIC,Australia,2023-07-07,204,Resistance Bands,Fitness,1,24.99,0.00,0.00,Cancelled,PayPal,Website,No,,0.00
+10091,2025-02-07,2025-02-07 15:00:00,2,Mia Chen,Melbourne,VIC,Australia,2023-02-20,302,Notebook Pack,Home Office,2,12.99,0.10,0.00,Completed,Afterpay,Mobile App,No,4,23.38
+10092,2025-02-06,2025-02-06 16:30:00,7,Lucas Singh,Canberra,ACT,Australia,2023-05-21,201,Yoga Mat,Fitness,1,39.99,0.15,4.99,Completed,Afterpay,Marketplace,No,5,38.98
+10093,2024-08-27,2024-08-27 09:15:00,11,Leo Garcia,Brisbane,QLD,Australia,2023-08-02,104,Laptop Stand,Electronics,2,49.99,0.00,9.99,Returned,Afterpay,Website,Yes,4,109.97
+10094,2024-08-20,2024-08-20 13:30:00,9,Henry Kim,Sydney,NSW,Australia,2023-06-15,104,Laptop Stand,Electronics,2,49.99,0.10,7.99,Completed,Afterpay,Website,No,5,97.97
+10095,2024-11-08,2024-11-08 11:00:00,20,Chloe Lewis,Brisbane,QLD,Australia,2024-01-22,303,Ergonomic Chair,Home Office,2,199.99,0.00,0.00,Cancelled,Afterpay,Website,No,,0.00
+10096,2024-01-20,2024-01-20 12:45:00,5,Ethan Brown,Adelaide,SA,Australia,2023-04-10,102,Bluetooth Headphones,Electronics,1,89.99,0.00,12.99,Completed,Apple Pay,Email Campaign,No,4,102.98
+10097,2025-03-29,2025-03-29 14:00:00,19,Benjamin Clark,Melbourne,VIC,Australia,2024-01-06,201,Yoga Mat,Fitness,3,39.99,0.05,7.99,Completed,PayPal,Email Campaign,No,5,121.96
+10098,2025-03-13,2025-03-13 13:00:00,15,William Moore,Melbourne,VIC,Australia,2023-10-15,204,Resistance Bands,Fitness,4,24.99,0.00,7.99,Completed,PayPal,Website,No,4,107.95
+10099,2024-12-05,2024-12-05 11:00:00,15,William Moore,Melbourne,VIC,Australia,2023-10-15,103,USB-C Cable,Electronics,1,14.99,0.00,4.99,Returned,PayPal,Mobile App,Yes,3,19.98
+10100,2025-01-31,2025-01-31 10:00:00,8,Amelia Martin,Darwin,NT,Australia,2023-06-03,303,Ergonomic Chair,Home Office,1,199.99,0.20,4.99,Returned,PayPal,Website,Yes,4,164.98
+10101,2024-01-08,2024-01-08 13:15:00,1,Aarav Patel,Sydney,NSW,Australia,2023-01-12,201,Yoga Mat,Fitness,2,39.99,0.00,7.99,Completed,Afterpay,Website,No,3,87.97
+10102,2024-08-17,2024-08-17 20:30:00,3,Noah Wilson,Brisbane,QLD,Australia,2023-03-05,404,Olive Oil 750ml,Grocery,1,16.99,0.00,12.99,Completed,Credit Card,Marketplace,No,5,29.98
+10103,2024-02-01,2024-02-01 15:45:00,15,William Moore,Melbourne,VIC,Australia,2023-10-15,101,Wireless Mouse,Electronics,1,29.99,0.00,9.99,Completed,Apple Pay,Mobile App,No,5,39.98
+10104,2024-05-20,2024-05-20 17:30:00,3,Noah Wilson,Brisbane,QLD,Australia,2023-03-05,201,Yoga Mat,Fitness,1,39.99,0.05,7.99,Completed,Afterpay,Website,No,4,45.98
+10105,2024-08-08,2024-08-08 15:15:00,4,Olivia Nguyen,Perth,WA,Australia,2023-03-18,203,Running Bottle,Fitness,1,19.99,0.10,9.99,Completed,Apple Pay,Email Campaign,No,5,27.98
+10106,2024-07-10,2024-07-10 10:45:00,11,Leo Garcia,Brisbane,QLD,Australia,2023-08-02,301,Desk Lamp,Home Office,1,34.99,0.10,0.00,Completed,Apple Pay,Mobile App,No,3,31.49
+10107,2024-10-27,2024-10-27 16:30:00,18,Ruby Harris,Sydney,NSW,Australia,2023-12-01,102,Bluetooth Headphones,Electronics,2,89.99,0.00,0.00,Cancelled,Credit Card,Marketplace,No,,0.00
+10108,2024-06-29,2024-06-29 09:15:00,20,Chloe Lewis,Brisbane,QLD,Australia,2024-01-22,302,Notebook Pack,Home Office,1,12.99,0.00,0.00,Completed,Apple Pay,Website,No,5,12.99
+10109,2025-02-17,2025-02-17 14:00:00,9,Henry Kim,Sydney,NSW,Australia,2023-06-15,204,Resistance Bands,Fitness,2,24.99,0.05,7.99,Completed,Apple Pay,Marketplace,No,3,55.47
+10110,2024-04-02,2024-04-02 21:15:00,12,Sofia Lee,Perth,WA,Australia,2023-08-28,101,Wireless Mouse,Electronics,2,29.99,0.00,0.00,Cancelled,Credit Card,Website,No,,0.00
+10111,2024-07-11,2024-07-11 14:45:00,17,James White,Perth,WA,Australia,2023-11-18,203,Running Bottle,Fitness,1,19.99,0.00,7.99,Returned,Credit Card,Mobile App,Yes,5,27.98
+10112,2024-12-11,2024-12-11 09:30:00,6,Isla Taylor,Hobart,TAS,Australia,2023-05-01,102,Bluetooth Headphones,Electronics,1,89.99,0.00,12.99,Completed,PayPal,Website,No,4,102.98
+10113,2024-02-26,2024-02-26 12:45:00,12,Sofia Lee,Perth,WA,Australia,2023-08-28,402,Green Tea Box,Grocery,1,9.99,0.00,4.99,Completed,Credit Card,Website,No,5,14.98
+10114,2024-04-18,2024-04-18 20:15:00,7,Lucas Singh,Canberra,ACT,Australia,2023-05-21,302,Notebook Pack,Home Office,2,12.99,0.00,0.00,Completed,Afterpay,Mobile App,No,4,25.98
+10115,2024-09-29,2024-09-29 19:15:00,5,Ethan Brown,Adelaide,SA,Australia,2023-04-10,401,Coffee Beans 1kg,Grocery,1,27.99,0.10,7.99,Completed,Credit Card,Email Campaign,No,4,33.18
+10116,2024-02-09,2024-02-09 21:30:00,1,Aarav Patel,Sydney,NSW,Australia,2023-01-12,403,Protein Bars 12pk,Grocery,2,22.99,0.05,9.99,Completed,Credit Card,Marketplace,No,3,53.67
+10117,2025-03-01,2025-03-01 19:30:00,6,Isla Taylor,Hobart,TAS,Australia,2023-05-01,403,Protein Bars 12pk,Grocery,1,22.99,0.10,4.99,Completed,Credit Card,Email Campaign,No,5,25.68
+10118,2024-04-23,2024-04-23 13:15:00,10,Charlotte Davis,Melbourne,VIC,Australia,2023-07-07,303,Ergonomic Chair,Home Office,1,199.99,0.05,12.99,Returned,Apple Pay,Marketplace,Yes,3,202.98
+10119,2024-02-22,2024-02-22 10:30:00,5,Ethan Brown,Adelaide,SA,Australia,2023-04-10,204,Resistance Bands,Fitness,1,24.99,0.05,0.00,Completed,Afterpay,Email Campaign,No,5,23.74
+10120,2024-12-14,2024-12-14 17:30:00,19,Benjamin Clark,Melbourne,VIC,Australia,2024-01-06,403,Protein Bars 12pk,Grocery,3,22.99,0.05,4.99,Completed,Afterpay,Marketplace,No,2,70.51
+10121,2024-06-29,2024-06-29 16:00:00,9,Henry Kim,Sydney,NSW,Australia,2023-06-15,102,Bluetooth Headphones,Electronics,1,89.99,0.00,0.00,Completed,Credit Card,Website,No,5,89.99
+10122,2024-08-24,2024-08-24 17:00:00,20,Chloe Lewis,Brisbane,QLD,Australia,2024-01-22,401,Coffee Beans 1kg,Grocery,1,27.99,0.10,4.99,Completed,PayPal,Website,No,5,30.18
+10123,2025-02-19,2025-02-19 21:30:00,15,William Moore,Melbourne,VIC,Australia,2023-10-15,104,Laptop Stand,Electronics,4,49.99,0.00,4.99,Completed,Afterpay,Email Campaign,No,4,204.95
+10124,2024-07-05,2024-07-05 13:30:00,17,James White,Perth,WA,Australia,2023-11-18,202,Dumbbell Set,Fitness,1,79.99,0.10,12.99,Completed,Apple Pay,Website,No,5,84.98
+10125,2024-10-12,2024-10-12 18:45:00,11,Leo Garcia,Brisbane,QLD,Australia,2023-08-02,104,Laptop Stand,Electronics,1,49.99,0.10,12.99,Completed,PayPal,Marketplace,No,4,57.98
+10126,2024-03-07,2024-03-07 17:00:00,10,Charlotte Davis,Melbourne,VIC,Australia,2023-07-07,401,Coffee Beans 1kg,Grocery,1,27.99,0.00,7.99,Completed,Credit Card,Email Campaign,No,5,35.98
+10127,2024-01-10,2024-01-10 13:30:00,17,James White,Perth,WA,Australia,2023-11-18,304,Standing Desk Pad,Home Office,1,59.99,0.00,9.99,Completed,PayPal,Mobile App,No,3,69.98
+10128,2025-03-08,2025-03-08 20:00:00,3,Noah Wilson,Brisbane,QLD,Australia,2023-03-05,302,Notebook Pack,Home Office,1,12.99,0.00,12.99,Completed,PayPal,Email Campaign,No,5,25.98
+10129,2024-04-02,2024-04-02 21:15:00,5,Ethan Brown,Adelaide,SA,Australia,2023-04-10,202,Dumbbell Set,Fitness,2,79.99,0.00,0.00,Cancelled,PayPal,Email Campaign,No,,0.00
+10130,2025-01-20,2025-01-20 19:45:00,20,Chloe Lewis,Brisbane,QLD,Australia,2024-01-22,302,Notebook Pack,Home Office,1,12.99,0.00,9.99,Completed,Afterpay,Email Campaign,No,4,22.98
+10131,2024-09-14,2024-09-14 16:45:00,10,Charlotte Davis,Melbourne,VIC,Australia,2023-07-07,401,Coffee Beans 1kg,Grocery,4,27.99,0.10,12.99,Completed,Credit Card,Email Campaign,No,5,113.75
+10132,2024-12-30,2024-12-30 21:00:00,12,Sofia Lee,Perth,WA,Australia,2023-08-28,104,Laptop Stand,Electronics,1,49.99,0.10,7.99,Completed,PayPal,Email Campaign,No,5,52.98
+10133,2025-02-22,2025-02-22 15:30:00,3,Noah Wilson,Brisbane,QLD,Australia,2023-03-05,204,Resistance Bands,Fitness,3,24.99,0.00,9.99,Returned,Afterpay,Website,Yes,4,84.96
+10134,2024-01-15,2024-01-15 13:00:00,12,Sofia Lee,Perth,WA,Australia,2023-08-28,204,Resistance Bands,Fitness,3,24.99,0.05,4.99,Completed,Afterpay,Mobile App,No,2,76.21
+10135,2024-11-11,2024-11-11 08:00:00,16,Ava Jackson,Brisbane,QLD,Australia,2023-11-04,403,Protein Bars 12pk,Grocery,1,22.99,0.00,4.99,Returned,Afterpay,Website,Yes,5,27.98
+10136,2024-06-03,2024-06-03 09:00:00,10,Charlotte Davis,Melbourne,VIC,Australia,2023-07-07,204,Resistance Bands,Fitness,1,24.99,0.05,12.99,Completed,Afterpay,Website,No,2,36.73
+10137,2025-01-02,2025-01-02 10:30:00,17,James White,Perth,WA,Australia,2023-11-18,204,Resistance Bands,Fitness,1,24.99,0.05,4.99,Returned,Credit Card,Marketplace,Yes,4,28.73
+10138,2024-07-18,2024-07-18 21:45:00,3,Noah Wilson,Brisbane,QLD,Australia,2023-03-05,101,Wireless Mouse,Electronics,1,29.99,0.00,7.99,Completed,Apple Pay,Website,No,5,37.98
+10139,2025-01-10,2025-01-10 18:00:00,12,Sofia Lee,Perth,WA,Australia,2023-08-28,204,Resistance Bands,Fitness,2,24.99,0.10,7.99,Completed,Apple Pay,Mobile App,No,2,52.97
+10140,2024-11-19,2024-11-19 10:15:00,15,William Moore,Melbourne,VIC,Australia,2023-10-15,404,Olive Oil 750ml,Grocery,1,16.99,0.10,9.99,Completed,Credit Card,Mobile App,No,4,25.28
+10141,2024-06-07,2024-06-07 16:45:00,2,Mia Chen,Melbourne,VIC,Australia,2023-02-20,303,Ergonomic Chair,Home Office,4,199.99,0.00,7.99,Completed,PayPal,Marketplace,No,5,807.95
+10142,2025-03-19,2025-03-19 18:30:00,12,Sofia Lee,Perth,WA,Australia,2023-08-28,102,Bluetooth Headphones,Electronics,1,89.99,0.10,9.99,Completed,Afterpay,Marketplace,No,5,90.98
+10143,2024-12-20,2024-12-20 15:30:00,6,Isla Taylor,Hobart,TAS,Australia,2023-05-01,404,Olive Oil 750ml,Grocery,3,16.99,0.00,0.00,Cancelled,Afterpay,Website,No,,0.00
+10144,2024-10-06,2024-10-06 12:30:00,14,Grace Thomas,Sydney,NSW,Australia,2023-09-29,202,Dumbbell Set,Fitness,1,79.99,0.00,7.99,Completed,Afterpay,Mobile App,No,4,87.98
+10145,2024-08-16,2024-08-16 08:30:00,15,William Moore,Melbourne,VIC,Australia,2023-10-15,304,Standing Desk Pad,Home Office,2,59.99,0.00,0.00,Completed,Afterpay,Marketplace,No,5,119.98
+10146,2024-01-16,2024-01-16 10:45:00,17,James White,Perth,WA,Australia,2023-11-18,202,Dumbbell Set,Fitness,1,79.99,0.00,7.99,Completed,Credit Card,Mobile App,No,4,87.98
+10147,2024-07-09,2024-07-09 15:00:00,15,William Moore,Melbourne,VIC,Australia,2023-10-15,304,Standing Desk Pad,Home Office,2,59.99,0.00,9.99,Completed,PayPal,Website,No,5,129.97
+10148,2024-09-12,2024-09-12 16:45:00,1,Aarav Patel,Sydney,NSW,Australia,2023-01-12,202,Dumbbell Set,Fitness,3,79.99,0.00,0.00,Cancelled,Afterpay,Mobile App,No,,0.00
+10149,2024-12-21,2024-12-21 15:15:00,20,Chloe Lewis,Brisbane,QLD,Australia,2024-01-22,302,Notebook Pack,Home Office,1,12.99,0.15,9.99,Completed,Afterpay,Website,No,5,21.03
+10150,2024-12-29,2024-12-29 09:30:00,11,Leo Garcia,Brisbane,QLD,Australia,2023-08-02,304,Standing Desk Pad,Home Office,3,59.99,0.15,4.99,Completed,Credit Card,Mobile App,No,4,157.96
+10151,2025-02-08,2025-02-08 15:00:00,5,Ethan Brown,Adelaide,SA,Australia,2023-04-10,204,Resistance Bands,Fitness,1,24.99,0.05,9.99,Returned,Credit Card,Website,Yes,3,33.73
+10152,2025-01-02,2025-01-02 19:45:00,10,Charlotte Davis,Melbourne,VIC,Australia,2023-07-07,401,Coffee Beans 1kg,Grocery,1,27.99,0.10,12.99,Completed,Apple Pay,Website,No,3,38.18
+10153,2024-12-14,2024-12-14 16:30:00,15,William Moore,Melbourne,VIC,Australia,2023-10-15,403,Protein Bars 12pk,Grocery,1,22.99,0.10,0.00,Cancelled,PayPal,Mobile App,No,,0.00
+10154,2025-03-01,2025-03-01 09:15:00,14,Grace Thomas,Sydney,NSW,Australia,2023-09-29,102,Bluetooth Headphones,Electronics,1,89.99,0.00,4.99,Completed,Apple Pay,Website,No,5,94.98
+10155,2024-11-21,2024-11-21 16:30:00,9,Henry Kim,Sydney,NSW,Australia,2023-06-15,203,Running Bottle,Fitness,1,19.99,0.00,12.99,Completed,PayPal,Mobile App,No,4,32.98
+10156,2025-03-07,2025-03-07 17:00:00,6,Isla Taylor,Hobart,TAS,Australia,2023-05-01,303,Ergonomic Chair,Home Office,2,199.99,0.00,0.00,Cancelled,Apple Pay,Mobile App,No,,0.00
+10157,2024-11-12,2024-11-12 18:00:00,19,Benjamin Clark,Melbourne,VIC,Australia,2024-01-06,402,Green Tea Box,Grocery,1,9.99,0.05,0.00,Cancelled,Apple Pay,Email Campaign,No,,0.00
+10158,2024-06-01,2024-06-01 15:00:00,8,Amelia Martin,Darwin,NT,Australia,2023-06-03,401,Coffee Beans 1kg,Grocery,2,27.99,0.00,9.99,Completed,Apple Pay,Mobile App,No,4,65.97
+10159,2025-01-10,2025-01-10 21:30:00,11,Leo Garcia,Brisbane,QLD,Australia,2023-08-02,303,Ergonomic Chair,Home Office,4,199.99,0.00,7.99,Returned,Apple Pay,Mobile App,Yes,4,807.95
+10160,2024-05-16,2024-05-16 15:15:00,15,William Moore,Melbourne,VIC,Australia,2023-10-15,104,Laptop Stand,Electronics,1,49.99,0.00,9.99,Returned,PayPal,Marketplace,Yes,4,59.98
+10161,2024-04-07,2024-04-07 20:15:00,19,Benjamin Clark,Melbourne,VIC,Australia,2024-01-06,303,Ergonomic Chair,Home Office,1,199.99,0.00,9.99,Completed,Credit Card,Email Campaign,No,4,209.98
+10162,2024-05-03,2024-05-03 11:30:00,17,James White,Perth,WA,Australia,2023-11-18,403,Protein Bars 12pk,Grocery,1,22.99,0.00,0.00,Cancelled,Afterpay,Marketplace,No,,0.00
+10163,2025-03-09,2025-03-09 09:45:00,18,Ruby Harris,Sydney,NSW,Australia,2023-12-01,101,Wireless Mouse,Electronics,1,29.99,0.00,7.99,Completed,Afterpay,Website,No,4,37.98
+10164,2024-07-04,2024-07-04 16:30:00,19,Benjamin Clark,Melbourne,VIC,Australia,2024-01-06,203,Running Bottle,Fitness,1,19.99,0.00,12.99,Completed,Credit Card,Mobile App,No,5,32.98
+10165,2024-07-10,2024-07-10 20:30:00,4,Olivia Nguyen,Perth,WA,Australia,2023-03-18,401,Coffee Beans 1kg,Grocery,2,27.99,0.00,4.99,Completed,Afterpay,Website,No,5,60.97
+10166,2024-03-11,2024-03-11 19:30:00,2,Mia Chen,Melbourne,VIC,Australia,2023-02-20,102,Bluetooth Headphones,Electronics,2,89.99,0.00,4.99,Returned,PayPal,Marketplace,Yes,5,184.97
+10167,2024-03-24,2024-03-24 14:30:00,20,Chloe Lewis,Brisbane,QLD,Australia,2024-01-22,303,Ergonomic Chair,Home Office,2,199.99,0.00,12.99,Returned,Apple Pay,Email Campaign,Yes,4,412.97
+10168,2024-06-18,2024-06-18 18:00:00,1,Aarav Patel,Sydney,NSW,Australia,2023-01-12,304,Standing Desk Pad,Home Office,4,59.99,0.05,0.00,Returned,PayPal,Website,Yes,4,227.96
+10169,2024-03-28,2024-03-28 16:45:00,19,Benjamin Clark,Melbourne,VIC,Australia,2024-01-06,404,Olive Oil 750ml,Grocery,1,16.99,0.05,0.00,Returned,Credit Card,Mobile App,Yes,5,16.14
+10170,2024-06-09,2024-06-09 14:15:00,1,Aarav Patel,Sydney,NSW,Australia,2023-01-12,403,Protein Bars 12pk,Grocery,1,22.99,0.00,12.99,Returned,Credit Card,Mobile App,Yes,5,35.98
+10171,2024-10-14,2024-10-14 13:45:00,17,James White,Perth,WA,Australia,2023-11-18,203,Running Bottle,Fitness,1,19.99,0.00,4.99,Completed,Apple Pay,Marketplace,No,5,24.98
+10172,2024-04-08,2024-04-08 11:30:00,9,Henry Kim,Sydney,NSW,Australia,2023-06-15,404,Olive Oil 750ml,Grocery,2,16.99,0.00,7.99,Completed,Afterpay,Marketplace,No,5,41.97
+10173,2024-10-13,2024-10-13 20:30:00,16,Ava Jackson,Brisbane,QLD,Australia,2023-11-04,304,Standing Desk Pad,Home Office,1,59.99,0.05,12.99,Completed,Afterpay,Marketplace,No,5,69.98
+10174,2024-01-22,2024-01-22 12:00:00,5,Ethan Brown,Adelaide,SA,Australia,2023-04-10,302,Notebook Pack,Home Office,1,12.99,0.00,0.00,Cancelled,Afterpay,Mobile App,No,,0.00
+10175,2024-10-14,2024-10-14 19:30:00,7,Lucas Singh,Canberra,ACT,Australia,2023-05-21,301,Desk Lamp,Home Office,1,34.99,0.05,12.99,Completed,PayPal,Mobile App,No,4,46.23
+10176,2024-07-30,2024-07-30 13:45:00,2,Mia Chen,Melbourne,VIC,Australia,2023-02-20,104,Laptop Stand,Electronics,1,49.99,0.10,0.00,Returned,PayPal,Email Campaign,Yes,5,44.99
+10177,2024-11-29,2024-11-29 11:30:00,16,Ava Jackson,Brisbane,QLD,Australia,2023-11-04,404,Olive Oil 750ml,Grocery,1,16.99,0.05,0.00,Cancelled,PayPal,Website,No,,0.00
+10178,2025-03-27,2025-03-27 21:15:00,6,Isla Taylor,Hobart,TAS,Australia,2023-05-01,402,Green Tea Box,Grocery,3,9.99,0.00,9.99,Completed,Apple Pay,Website,No,3,39.96
+10179,2024-10-17,2024-10-17 17:00:00,1,Aarav Patel,Sydney,NSW,Australia,2023-01-12,302,Notebook Pack,Home Office,3,12.99,0.00,0.00,Cancelled,Afterpay,Mobile App,No,,0.00
+10180,2024-05-19,2024-05-19 11:00:00,17,James White,Perth,WA,Australia,2023-11-18,403,Protein Bars 12pk,Grocery,1,22.99,0.10,0.00,Cancelled,PayPal,Website,No,,0.00
