@@ -40,5 +40,5 @@ Business Intelligence,
 Interactive Dashboard Development,
 
 
-Arif Bhuiyan
+Arif Bhuiyan,
 Aspiring Data Analyst
